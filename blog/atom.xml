@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/dokku-website/blog</id>
-    <title>Test TEST TEST Blog</title>
+    <title>You can't expect to learn, if you aren't willing to teach Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/dokku-website/blog"/>
-    <subtitle>Test TEST TEST Blog</subtitle>
+    <subtitle>You can't expect to learn, if you aren't willing to teach Blog</subtitle>
     <icon>https://github.com/dokku-website/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
