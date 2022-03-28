@@ -44,10 +44,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Security.png',
         },
         items: [
           {
@@ -94,7 +94,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/jakedansoncybe',
+                href: 'https://github.com/jakedansoncyber',
               },
             ],
           },
