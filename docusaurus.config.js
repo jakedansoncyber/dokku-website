@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Test TEST TEST',
-  tagline: 'TESTl',
+  title: "You can't expect to learn, if you aren't willing to teach",
+  tagline: "Jake Danson's introduction to IT security",
   url: 'https://github.com',
   baseUrl: '/dokku-website/',
   onBrokenLinks: 'throw',
@@ -25,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/jakedansoncyber/dokku-website',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/jakedansoncyber/dokku-website',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,7 +58,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/jakedansoncyber/dokku-website',
             label: 'GitHub',
             position: 'right',
           },

@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Tutorials',
+    Svg: require('@site/static/img/Security2.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Videos and documentations on projects that I have completed or explored will be found in the docs section.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Learn with me',
+    Svg: require('@site/static/img/Security3.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This website was designed to incorporate my learnings in the IT security world, into your daily life! Join me
+        as I traverse the never ending world of cybersecurity.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Teach me',
+    Svg: require('@site/static/img/Security4.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        There's always something to learn. If you've explored anything posted on this website, or explored something new, I'd love to connect!
       </>
     ),
   },
