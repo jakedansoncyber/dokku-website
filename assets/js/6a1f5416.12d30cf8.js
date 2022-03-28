@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdokku_website=self.webpackChunkdokku_website||[]).push([[827],{8379:function(e){e.exports=JSON.parse('{"allTagsPath":"/dokku-website/blog/tags","name":"facebook","count":1,"permalink":"/dokku-website/blog/tags/facebook"}')}}]);
