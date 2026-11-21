@@ -17,6 +17,17 @@ const config = {
   projectName: 'dokku-website', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
+  plugins: [
+    function adsenseVerification() {
+      return {
+        name: 'adsense-verification',
+        injectHtmlTags() {
+          return {headTags: '<meta name="google-adsense-account" content="ca-pub-2413506792132632">'};
+        },
+      };
+    },
+  ],
+
   presets: [
     [
       'classic',
